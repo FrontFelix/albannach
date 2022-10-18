@@ -81,6 +81,9 @@ code {
 .nftBG {
   object-fit: cover;
   opacity: .5;
+  z-index: -2;
+}
+.imgBehind {
   z-index: -1;
 }
 
